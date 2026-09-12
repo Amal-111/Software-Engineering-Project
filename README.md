@@ -30,11 +30,8 @@ The project was developed through multiple phases, including:
 - JavaScript
 - SQL
 
-## Team Project
-
-Developed as a team project for the IT320 Practical Software Engineering course at King Saud University.
-
 ## Team Members
+
 - Amal Albogami
 - Albatool Aljaber
 - Shahad Aldawhan
