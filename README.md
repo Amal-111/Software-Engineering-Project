@@ -30,6 +30,12 @@ The project was developed through multiple phases, including:
 - JavaScript
 - SQL
 
+## Project Documentation
+
+The complete project documentation is available here:
+
+[View Project Documentation](docs/Thameen_SWE_Documentation.pdf)
+
 ## Team Members
 
 - Amal Albogami
