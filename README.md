@@ -1,6 +1,6 @@
 # Thameen
 
-Thameen is a web-based system developed as part of the IT320 Practical Software Engineering course at King Saud University.
+Thameen is a web-based system developed as part of a Practical Software Engineering course at King Saud University.
 
 The project focused on applying the software development process, including requirements analysis, system design, implementation, and testing.
 
